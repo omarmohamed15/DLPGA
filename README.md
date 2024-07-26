@@ -4,7 +4,7 @@
 
 Reproducible material for **Deep Learning Peak Ground Acceleration Prediction Using Single-Station Waveforms**
 
-
+-----------
 ## Reference
 If you find this package useful, please do not forget to cite the following paper.
 
@@ -21,3 +21,4 @@ BibTeX:
   year={2024},
   publisher={IEEE}
 }
+-----------
