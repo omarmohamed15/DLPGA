@@ -4,6 +4,8 @@
 **DLPGA**
 ======
 
+## Description
+
 Reproducible material for **Deep Learning Peak Ground Acceleration Prediction Using Single-Station Waveforms**
 
 -----------
